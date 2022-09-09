@@ -1,1 +1,1 @@
-Repositorio Host para activar GOLD HEN PS4 2.3b2
+Repositorio Host para activar GOLD HEN 2.2.4 PS4 9.0
